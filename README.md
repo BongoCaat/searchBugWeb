@@ -1,3 +1,5 @@
+## Forked from [Recon Search Assistant](https://github.com/Boopath1/Recon-Search-Assistant)
+
 # Bug Bounty Search Engine
 
 A powerful and intuitive web-based search engine designed specifically for bug bounty hunters and security researchers. This tool provides quick access to various Google dorks and specialized searches to help identify potential security vulnerabilities and gather information about target domains.
